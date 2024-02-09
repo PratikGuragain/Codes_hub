@@ -1,1 +1,9 @@
-hi
+<!DOCTYPE html> 
+<!-- File name and document purpose --> 
+<html lang = "en"> 
+    <title>Exercies</title>
+    <br>
+    <head>Theorem</head>
+    <p>Every prime number >(greater then)2 %(modulo)4 can be written in the form 4<sup>n+1</sup>or4<sup>n+3</sup> </p><br>
+    <h1>Proof</h1><br>
+    <p>Any number p when / (divided by) 4 leaves remainder 0, 1, 2 or 3. Therefore, the number has the form 4<sup>n</sup>, 4<sup>n + 1</sup>, 4<sup>n+ 2</sup> or 4<sup>n + 3</sup>. Since 4<sup>n</sup> and 4<sup>n + 2</sup> are even, so these can not be a form of a prime number which is an odd number (except 2). This proves the theorem. ◻</p><br>
